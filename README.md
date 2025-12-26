@@ -1,121 +1,134 @@
-<!-- HEADER with Gradient Text & Shadow -->
-<h1 align="center" style="
-  font-weight: 900; 
-  font-size: 4rem; 
-  background: linear-gradient(90deg, #00DBDE, #FC00FF); 
-  -webkit-background-clip: text; 
-  -webkit-text-fill-color: transparent; 
-  text-shadow: 2px 2px 5px rgba(252, 0, 255, 0.4);
-  margin-bottom: 0.2em;
-">
-  Sai Sandeep Kalagatla
-</h1>
-
-<p align="center" style="font-size: 1.3rem; font-weight: 600; color:#7c3aed; margin-top:0;">
-  MERN Stack Developer 🚀 | AI & Cloud Enthusiast ☁️ | Co-founder & CLO @ Webortex
-</p>
-
-<div align="center" style="margin-top: 1em;">
-  <!-- Animated Gradient Badges with Glow -->
-  <a href="https://linkedin.com/in/YaswanthSaiSandeepKalagatla" target="_blank" style="margin-right: 1em;">
-    <img alt="LinkedIn" width="160" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230077B5&animation=glow" />
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=600&lines=Sai+Sandeep+Kalagatla;System+Architect+%26+CPO;Full+Stack+GenAI+Engineer;Building+Scalable+Cloud+Systems" alt="Typing SVG" />
   </a>
 
-  <a href="https://github.com/Sandeep010-hub" target="_blank">
-    <img alt="GitHub" width="160" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=%23121011&animation=glow" />
-  </a>
+  <p align="center" style="font-size: 1.1rem; font-weight: 500; color: #a2a2a2;">
+    <samp>Initializing... User: <strong>Tricky</strong> | Workspace: <strong>Webortex</strong> | Location: <strong>IN</strong></samp>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/yaswanth-sai-sandeep-kalagatla-655416243/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+    </a>
+    <a href="mailto:saisandeepkalagatla@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+    </a>
+    <a href="https://saisandeepkalagatala.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/>
+    </a>
+  </p>
 </div>
 
-<!-- Eye-catching coding animation gif -->
-<p align="center" style="margin-top: 2em;">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320" alt="Coding Animation" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(252,0,255,0.4);" />
-</p>
+<br />
 
----
+<h2 align="center">⚡ System Architecture</h2>
 
-## 🔥 About Me
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <pre align="left" lang="javascript">
+const tricky = {
+  role: "Chief Product Officer (CPO)",
+  company: "WEBORTEX",
+  architecture: ["Microservices", "Serverless", "RAG"],
+  stack: {
+    frontend: ["Next.js", "React 18", "Tailwind"],
+    backend: ["Node.js", "Supabase Edge", "Docker"],
+    ai: ["Gemini API", "OpenAI", "n8n"]
+  },
+  status: "Building systems that scale."
+};
 
-<div style="font-size:1.1rem; line-height:1.6;">
-<ul>
-<li><strong>Passionate MERN stack developer</strong> building scalable AI-powered web applications.</li>
-<li><strong>Co-founder & CLO at Webortex</strong> driving innovation, leadership & growth.</li>
-<li>Experienced with <code>React</code>, <code>Node.js</code>, <code>Next.js</code>, <code>MongoDB</code>, <code>Docker</code>, <code>AWS</code>, and AI/ML integrations.</li>
-<li>Forever curious, constantly exploring cutting-edge tech & creative solutions 🚀</li>
-</ul>
-</div>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<p align="center" style="margin-bottom: 0.3em;">
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
-  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />
-  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" />
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-</p>
-
-<div align="center" style="margin: 1em 0;">
-  <!-- Skill bars as shields.io badges for visual impact -->
-  <img src="https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react" alt="React" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js" alt="Node.js" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/MongoDB-Intermediate-yellow?style=for-the-badge&logo=mongodb" alt="MongoDB" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/Docker-Learning-lightgrey?style=for-the-badge&logo=docker" alt="Docker" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazonaws" alt="AWS" style="margin: 0 5px;"/>
+// Ready to deploy.
+console.log(tricky.status);
+  </pre>
+  <p align="left">
+    I am a <strong>Product Developer</strong> and <strong>System Architect</strong> with a CEO mindset. Currently driving innovation as <strong>Co-Founder & CPO at WEBORTEX</strong>. I specialize in engineering scalable MERN stack applications infused with Generative AI agents.
+  </p>
 </div>
 
 ---
 
-## 🚧 Current Projects
-
-<p align="center" style="font-size: 1.2rem;">
-  <span style="margin-right: 15px;">⚡ AI-powered web apps with real-time data processing</span>  
-  <span style="margin-right: 15px;">☁️ Cloud-native apps with Docker & AWS</span>  
-  <span>📊 Interactive dashboards with React & D3.js</span>
-</p>
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep010-hub&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep010-hub&theme=dracula&hide_border=true" width="48%" />
-</div>
-
-<div align="center" style="margin-top: 1em;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep010-hub&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <table align="center" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" /><br>React
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next" /><br>Next.js
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TS" /><br>TypeScript
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node" /><br>Node.js
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="Mongo" /><br>MongoDB
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase" /><br>Supabase
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" /><br>Docker
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS" /><br>AWS
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" /><br>Python
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📫 Let’s Connect!
+<h2>🚀 Featured Deployments</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 PromptCraft Fusion</h3>
+      <p align="center"><strong>GenAI Prompt Engineering Platform</strong></p>
+      <p>A production-grade platform transforming raw text into master-class prompts using <strong>Gemini APIs</strong> and <strong>Supabase Edge Functions</strong>.</p>
+      <ul>
+        <li>🚀 <strong>5x</strong> Improvement in prompt quality.</li>
+        <li>🔒 Enterprise-grade <strong>RBAC & JWT</strong> Security.</li>
+        <li>⚡ Serverless Batch Processing.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Sandeep010-hub/promptcraft-fusion">
+          <img src="https://img.shields.io/github/last-commit/Sandeep010-hub/promptcraft-fusion?style=flat-square&color=blue&label=Update" />
+          <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏗️ EliteConstruction</h3>
+      <p align="center"><strong>Enterprise Commercial Platform</strong></p>
+      <p>A high-performance marketplace engineered for speed. Achieved a <strong>95+ Lighthouse Score</strong> through advanced lazy-loading.</p>
+      <ul>
+        <li>📈 <strong>40%</strong> Increase in User Engagement.</li>
+        <li>🎨 Built with <strong>React 18 & Framer Motion</strong>.</li>
+        <li>☁️ Automated Quote Workflows.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Sandeep010-hub/eliteConstructer">
+          <img src="https://img.shields.io/github/last-commit/Sandeep010-hub/eliteConstructer?style=flat-square&color=orange&label=Update" />
+          <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YaswanthSaiSandeepKalagatla" target="_blank" rel="noopener noreferrer" style="margin: 0 1rem;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/Sandeep010-hub" target="_blank" rel="noopener noreferrer" style="margin: 0 1rem;">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-
-  <a href="https://twitter.com/yourtwitter" target="_blank" rel="noopener noreferrer" style="margin: 0 1rem;">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <p style="margin-top: -50px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">
+    Architecting The Future @ Webortex
+  </p>
 </div>
-
----
-
-<p align="center" style="margin-top: 3rem;">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Thank you" width="180" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(124,58,237,0.6);" />
-</p>
-
----
-
-<p align="center" style="font-size: 0.9rem; color: #bbb;">
-  Made with ❤️ by Sai Sandeep Kalagatla  
-</p>
