@@ -6,8 +6,9 @@
      HERO BANNER — ANIMATED
 ════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
-<!-- TYPEWRITER HOOK — THE STORY OPENS HERE -->
+<a href="https://sandeep010-hub.github.io/Sandeep010-hub/">
+  <img src="https://img.shields.io/badge/◆%20LIVE-hover%20to%20disturb%20the%20signal-00DBDE?style=for-the-badge&labelColor=0d1117" alt="live interactive portrait"/>
+</a><!-- TYPEWRITER HOOK — THE STORY OPENS HERE -->
 <br/>
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=00DBDE&center=true&vCenter=true&width=760&lines=I+don't+just+write+code.+I+architect+outcomes.;26+repos.+Every+one+deployed.+Every+one+intentional.;TypeScript+is+my+mother+tongue.+Systems+are+my+canvas.;Currently+building+%40+Webortex+%E2%80%94+from+Nellore+to+the+world." alt="Typing SVG"/>
